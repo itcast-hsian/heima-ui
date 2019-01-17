@@ -1,0 +1,23 @@
+{
+	"home": {
+		"name": "首页",
+		"path": "/",
+		"component": "home"
+	},
+	"component": {
+		"name": "组件",
+		"path": "/component",
+		"component": "component",
+		"groups": [
+			{
+				"name": "基础组件",
+				"list": [
+					{
+						"path": "/icon",
+						"title": "图标 icon"
+					}
+				]
+			}
+		]
+	}
+}

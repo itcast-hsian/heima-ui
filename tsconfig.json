@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "outDir": "./built/",
+        "sourceMap": true,
+        "strict": true,
+        "noImplicitReturns": true,
+        "module": "esNext",
+        "moduleResolution": "node",
+        "target": "es5",
+        "lib": ["es2018", "dom"],
+        "resolveJsonModule": true,
+        "downlevelIteration": true
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}

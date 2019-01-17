@@ -1,0 +1,11 @@
+{
+  "name": "heima-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".index.js",
+  "author": "",
+  "license": "MIT",
+  "bin": {
+    "heima": "./index.js"
+  }
+}
